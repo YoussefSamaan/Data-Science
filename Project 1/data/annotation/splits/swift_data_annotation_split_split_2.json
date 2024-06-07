@@ -1,0 +1,977 @@
+[
+    {
+        "source": {
+            "href": "https://www.huffpost.com",
+            "title": "HuffPost"
+        },
+        "title": "Taylor Swift's Fans Have Accused Her Of Being 'Shameless' For Trying To 'Exploit' Them With 'Money Grabbing' Tactics - HuffPost",
+        "description": "Taylor Swift's Fans Have Accused Her Of Being 'Shameless' For Trying To 'Exploit' Them With 'Money Grabbing' Tactics  HuffPost",
+        "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90YXlsb3Itc3dpZnQtZmFucy1tb25leS1leHBsb2l0YXRpb25fbl82NGU4ZWU1ZmU0YjA5OWNmNzlhMzE1OWLSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdGF5bG9yLXN3aWZ0LWZhbnMtbW9uZXktZXhwbG9pdGF0aW9uX25fNjRlOGVlNWZlNGIwOTljZjc5YTMxNTliL2FtcA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-26T07:00:00Z",
+        "API": "GNews",
+        "category": "Controversy",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Taylor Swift Has Heel Wardrobe Malfunction During Brazil Show in Rio de Janeiro - PEOPLE",
+        "description": "Taylor Swift Has Heel Wardrobe Malfunction During Brazil Show in Rio de Janeiro  PEOPLECall it the Errors Tour: Taylor Swift's heel breaks on stage, forcing her to walk around like Barbie  Yahoo EntertainmentTaylor Swift suffers wardrobe malfunction on stage during Brazil 'Eras Tour' stop  Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vcGVvcGxlLmNvbS90YXlsb3Itc3dpZnQtaGFzLXdhcmRyb2JlLW1hbGZ1bmN0aW9uLWF0LWJyYXppbC1zaG93LTg0MDUyMjnSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-21T05:48:59Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.foxnews.com/sports/patrick-mahomes-approves-travis-kelces-relationship-taylor-swift-not-distraction",
+            "title": "Fox News"
+        },
+        "title": "Patrick Mahomes approves of Travis Kelce's relationship with Taylor Swift: 'It's not become a distraction'",
+        "description": "Chiefs quarterback Patrick Mahomes gave his stamp of approval of Travis Kelce's relationship with Taylor Swift, saying it's not a distraction to the guys in the locker room.",
+        "url": "https://www.foxnews.com/sports/patrick-mahomes-approves-travis-kelces-relationship-taylor-swift-not-distraction",
+        "publishedAt": "2023-11-19T19:27:45Z",
+        "API": "NewsAPI",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.foxnews.com/entertainment/taylor-swift-returns-rio-stage-postponing-eras-tour-concert-fan-death",
+            "title": "Fox News"
+        },
+        "title": "Taylor Swift returns to Rio stage after postponing Eras Tour concert, fan death",
+        "description": "Taylor Swift resumed The Eras Tour in Brazil after canceling concert on Nov. 18 due to record heatwave across Rio. One fan died Friday after fainting outside stadium.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swift-returns-rio-stage-postponing-eras-tour-concert-fan-death",
+        "publishedAt": "2023-11-20T02:58:56Z",
+        "API": "NewsAPI",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://pagesix.com",
+            "title": "Page Six"
+        },
+        "title": "Olivia Wilde shades Taylor Swift and Travis Kelce's blossoming romance - Page Six",
+        "description": "Olivia Wilde shades Taylor Swift and Travis Kelce's blossoming romance  Page Six",
+        "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8xMC8wNi9vbGl2aWEtd2lsZGUtc2hhZGVzLXRheWxvci1zd2lmdC1hbmQtdHJhdmlzLWtlbGNlcy1ibG9zc29taW5nLXJvbWFuY2Uv0gFpaHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDIzLzEwLzA2L29saXZpYS13aWxkZS1zaGFkZXMtdGF5bG9yLXN3aWZ0LWFuZC10cmF2aXMta2VsY2VzLWJsb3Nzb21pbmctcm9tYW5jZS9hbXAv?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-06T07:00:00Z",
+        "API": "GNews",
+        "category": "Controversy",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://www.rollingstone.com",
+            "title": "Rolling Stone"
+        },
+        "title": "Elon Musk Begs Taylor Swift to Post Her Music on Zombie Twitter - Rolling Stone",
+        "description": "Elon Musk Begs Taylor Swift to Post Her Music on Zombie Twitter  Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9lbG9uLW11c2stYmVncy10YXlsb3Itc3dpZnQtcG9zdC1tdXNpYy10d2l0dGVyLTEyMzQ4Mjg4MzMv0gFsaHR0cHM6Ly93d3cucm9sbGluZ3N0b25lLmNvbS9tdXNpYy9tdXNpYy1uZXdzL2Vsb24tbXVzay1iZWdzLXRheWxvci1zd2lmdC1wb3N0LW11c2ljLXR3aXR0ZXItMTIzNDgyODgzMy9hbXAv?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-20T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com/2023/11/20/entertainment/travis-kelce-taylor-swift-wsj/index.html",
+            "title": "CNN"
+        },
+        "title": "Travis Kelce is ready to talk about dating Taylor Swift | CNN",
+        "description": "There was a time when Travis Kelce wasn\u2019t interested in talking about his personal life, but no more.",
+        "url": "https://www.cnn.com/2023/11/20/entertainment/travis-kelce-taylor-swift-wsj/index.html",
+        "publishedAt": "2023-11-20T19:58:19Z",
+        "API": "NewsAPI",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.rollingstone.com",
+            "title": "Rolling Stone"
+        },
+        "title": "Rachel Zegler Urges Media to \u2018Leave Taylor Swift Alone\u2019 After Sex Tape Comments - Rolling Stone",
+        "description": "Rachel Zegler Urges Media to \u2018Leave Taylor Swift Alone\u2019 After Sex Tape Comments  Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9yYWNoZWwtemVnbGVyLXRheWxvci1zd2lmdC10cmF2aXMta2VsY2Utc2V4LXRhcGUtY29tbWVudHMtMTIzNDgzOTM2OS_SAXdodHRwczovL3d3dy5yb2xsaW5nc3RvbmUuY29tL211c2ljL211c2ljLW5ld3MvcmFjaGVsLXplZ2xlci10YXlsb3Itc3dpZnQtdHJhdmlzLWtlbGNlLXNleC10YXBlLWNvbW1lbnRzLTEyMzQ4MzkzNjkvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-04T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://variety.com",
+            "title": "Variety"
+        },
+        "title": "Are Beyonc\u00e9\u2019s and Taylor Swift\u2019s Concert Films Eligible for the Oscars? - Variety",
+        "description": "Are Beyonc\u00e9\u2019s and Taylor Swift\u2019s Concert Films Eligible for the Oscars?  Variety",
+        "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL2F3YXJkcy90YXlsb3Itc3dpZnQtYmV5b25jZS1lcmFzLXRvdXItcmVuYWlzc2FuY2Utb3NjYXJzLTEyMzU3NDk3NDkv0gFmaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL2ZpbG0vYXdhcmRzL3RheWxvci1zd2lmdC1iZXlvbmNlLWVyYXMtdG91ci1yZW5haXNzYW5jZS1vc2NhcnMtMTIzNTc0OTc0OS9hbXAv?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-09T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.app.com",
+            "title": "Asbury Park Press"
+        },
+        "title": "Tickets for Taylor Swift dance party at Stone Pony on sale Friday - Asbury Park Press",
+        "description": "Tickets for Taylor Swift dance party at Stone Pony on sale Friday  Asbury Park Press",
+        "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFwcC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDIzLzA5LzIwL3N0b25lLXBvbnktYXNidXJ5LXBhcmstdGF5bG9yLXN3aWZ0LWRhbmNlLXBhcnR5LzcwOTEwOTc5MDA3L9IBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-20T07:00:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com",
+            "title": "CNN"
+        },
+        "title": "Travis Kelce on Taylor Swift: 'I threw the ball in her court' - CNN",
+        "description": "Travis Kelce on Taylor Swift: 'I threw the ball in her court'  CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8yMi9lbnRlcnRhaW5tZW50L3RyYXZpY2Uta2VsY2UtdGF5bG9yLXN3aWZ0L2luZGV4Lmh0bWzSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-22T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.si.com",
+            "title": "Sports Illustrated"
+        },
+        "title": "Travis Kelce's Thoughtful Description of Taylor Swift's 'Aura' Had ... - Sports Illustrated",
+        "description": "Travis Kelce's Thoughtful Description of Taylor Swift's 'Aura' Had ...  Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnNpLmNvbS9uZmwvMjAyMy8xMS8yMC9jaGllZnMtZWFnbGVzLXRyYXZpcy1rZWxjZS1vcGVucy11cC1hYm91dC10YXlsb3Itc3dpZnQtYXVyYdIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-20T19:34:29Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.newyorker.com",
+            "title": "The New Yorker"
+        },
+        "title": "Taylor Swift Is Everywhere All at Once - The New Yorker",
+        "description": "Taylor Swift Is Everywhere All at Once  The New Yorker",
+        "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vcG9kY2FzdC9jcml0aWNzLWF0LWxhcmdlL3RheWxvci1zd2lmdC1pcy1ldmVyeXdoZXJlLWFsbC1hdC1vbmNl0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-05T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.washingtonpost.com",
+            "title": "The Washington Post"
+        },
+        "title": "How much did Taylor Swift actually make from the Eras Tour? - The ... - The Washington Post",
+        "description": "How much did Taylor Swift actually make from the Eras Tour? - The ...  The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDIzLzEwLzEzL3RheWxvci1zd2lmdC1lcmFzLXRvdXItbW9uZXktam9icy_SAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-13T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "Taylor Swift Updates \u2018Better Than Revenge\u2019 Lyrics on \u2018Speak Now (Taylor\u2019s Version)\u2019 - Billboard",
+        "description": "Taylor Swift Updates \u2018Better Than Revenge\u2019 Lyrics on \u2018Speak Now (Taylor\u2019s Version)\u2019  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL211c2ljLW5ld3MvdGF5bG9yLXN3aWZ0LWJldHRlci10aGFuLXJldmVuZ2UtbHlyaWNzLWNoYW5nZWQtc3BlYWstbm93LXRheWxvcnMtdmVyc2lvbi0xMjM1MzY4MDE4L9IBhAFodHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL211c2ljLW5ld3MvdGF5bG9yLXN3aWZ0LWJldHRlci10aGFuLXJldmVuZ2UtbHlyaWNzLWNoYW5nZWQtc3BlYWstbm93LXRheWxvcnMtdmVyc2lvbi0xMjM1MzY4MDE4L2FtcC8?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-07T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.americamagazine.org",
+            "title": "America: The Jesuit Review"
+        },
+        "title": "Lighting up Christ the Redeemer with a Taylor Swift T-shirt isn't ... - America: The Jesuit Review",
+        "description": "Lighting up Christ the Redeemer with a Taylor Swift T-shirt isn't ...  America: The Jesuit Review",
+        "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFtZXJpY2FtYWdhemluZS5vcmcvZmFpdGgvMjAyMy8xMS8yMS90YXlsb3Itc3dpZnQtY2hyaXN0LXJlZGVlbWVyLXJpby1icmF6aWwtMjQ2NTcy0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-21T20:36:44Z",
+        "API": "GNews",
+        "category": "Controversy",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://www.foxnews.com/entertainment/taylor-swift-tour-may-prevent-thanksgiving-home-travis-kelce",
+            "title": "Fox News"
+        },
+        "title": "Taylor Swift tour may prevent Thanksgiving at home with Travis Kelce",
+        "description": "Taylor Swift's first Thanksgiving with Travis Kelce may be over FaceTime as she continues Eras Tour in Brazil while he plays football with Kansas City Chiefs.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swift-tour-may-prevent-thanksgiving-home-travis-kelce",
+        "publishedAt": "2023-11-16T01:30:54Z",
+        "API": "NewsAPI",
+        "category": "Slice of Life",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.ustravel.org",
+            "title": "US Travel Association"
+        },
+        "title": "The Taylor Swift Impact \u2013 5 Months and $5+ Billion - US Travel Association",
+        "description": "The Taylor Swift Impact \u2013 5 Months and $5+ Billion  US Travel Association",
+        "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnVzdHJhdmVsLm9yZy9uZXdzL3RheWxvci1zd2lmdC1pbXBhY3QtNS1tb250aHMtYW5kLTUtYmlsbGlvbtIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-19T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.seattletimes.com",
+            "title": "The Seattle Times"
+        },
+        "title": "Taylor Swift Night 2 surprise songs in Seattle dig deep - The Seattle Times",
+        "description": "Taylor Swift Night 2 surprise songs in Seattle dig deep  The Seattle Times",
+        "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy90YXlsb3Itc3dpZnQtbmlnaHQtMi1zdXJwcmlzZS1zb25ncy1pbi1zZWF0dGxlLWRpZy1kZWVwL9IBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-24T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Mindy Kaling Raves About Taylor Swift Concert: 'The First Night of ... - PEOPLE",
+        "description": "Mindy Kaling Raves About Taylor Swift Concert: 'The First Night of ...  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcGVvcGxlLmNvbS9taW5keS1rYWxpbmctcmF2ZXMtYWJvdXQtdGF5bG9yLXN3aWZ0LXMtZXJhcy10b3VyLTc1NzAyMDTSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-05T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.santaclaraca.gov",
+            "title": "City of Santa Clara"
+        },
+        "title": "News Release: City Renamed \u201cSwiftie Clara\u201d and Taylor Swift ... - City of Santa Clara",
+        "description": "News Release: City Renamed \u201cSwiftie Clara\u201d and Taylor Swift ...  City of Santa Clara",
+        "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnNhbnRhY2xhcmFjYS5nb3YvSG9tZS9Db21wb25lbnRzL05ld3MvTmV3cy80NDU5Ny8zMTcx0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-18T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.ndtv.com",
+            "title": "NDTV"
+        },
+        "title": "Taylor Swift's Bejewelled Boots And Jennifer Lawrence's Tailored Look Are Chic Enough To Withstand A Wardrobe Malfunction - NDTV",
+        "description": "Taylor Swift's Bejewelled Boots And Jennifer Lawrence's Tailored Look Are Chic Enough To Withstand A Wardrobe Malfunction  NDTV",
+        "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5uZHR2LmNvbS9saWZlc3R5bGUvdGF5bG9yLXN3aWZ0cy1iZWpld2VsbGVkLWxvdWJvdXRpbi1ib290cy1hbmQtamVubmlmZXItbGF3cmVuY2VzLWNyaXNwLXRhaWxvcmVkLWxvb2stYXJlLWNoaWMtZW5vdWdoLXRvLXdpdGhzdGFuZC1hLXdhcmRyb2JlLW1hbGZ1bmN0aW9uLTQ1OTY3MDDSAbQBaHR0cHM6Ly93d3cubmR0di5jb20vbGlmZXN0eWxlL3RheWxvci1zd2lmdHMtYmVqZXdlbGxlZC1sb3Vib3V0aW4tYm9vdHMtYW5kLWplbm5pZmVyLWxhd3JlbmNlcy1jcmlzcC10YWlsb3JlZC1sb29rLWFyZS1jaGljLWVub3VnaC10by13aXRoc3RhbmQtYS13YXJkcm9iZS1tYWxmdW5jdGlvbi00NTk2NzAwL2FtcC8x?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-22T11:50:40Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Taylor Swift Fans Swarmed Restaurant Thinking She Was There ... - PEOPLE",
+        "description": "Taylor Swift Fans Swarmed Restaurant Thinking She Was There ...  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcGVvcGxlLmNvbS90YXlsb3Itc3dpZnQtZmFucy1zd2FybWVkLXJlc3RhdXJhbnQtc2NhcmVjcm93cy13ZXJlLXBhcnQtb2YtdGhlLWNvbmZ1c2lvbi04MzY0NTcz0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-20T07:00:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://uproxx.com",
+            "title": "UPROXX"
+        },
+        "title": "Why Is Taylor Swift's Reputation Tour Leaving Netflix? - UPROXX",
+        "description": "Why Is Taylor Swift's Reputation Tour Leaving Netflix?  UPROXX",
+        "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdXByb3h4LmNvbS90di90YXlsb3Itc3dpZnQtcmVwdXRhdGlvbi10b3VyLW5ldGZsaXgtYm95Y290dC_SAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-22T18:23:18Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com",
+            "title": "CNN"
+        },
+        "title": "Taylor Swift and Jack Antonoff celebrate 'Cruel Summer' hitting No. 1 ... - CNN",
+        "description": "Taylor Swift and Jack Antonoff celebrate 'Cruel Summer' hitting No. 1 ...  CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8yMy9lbnRlcnRhaW5tZW50L3RheWxvci1zd2lmdC1jcnVlbC1zdW1tZXIvaW5kZXguaHRtbNIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-23T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.christianitytoday.com",
+            "title": "ChristianityToday.com"
+        },
+        "title": "Barbie and Taylor Swift Are Bringing Us Together - ChristianityToday.com",
+        "description": "Barbie and Taylor Swift Are Bringing Us Together  ChristianityToday.com",
+        "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNocmlzdGlhbml0eXRvZGF5LmNvbS9jdC8yMDIzL2F1Z3VzdC13ZWItb25seS9iYXJiaWUtYmV5b25jZS10YXlsb3Itc3dpZnQtZ2lybC1mZW1hbGUtd29tZW4tY2h1cmNoLXlvdXRoLmh0bWzSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-16T07:00:00Z",
+        "API": "GNews",
+        "category": "Achievement",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.polygon.com",
+            "title": "Polygon"
+        },
+        "title": "Taylor Swift Easter eggs are more than a puzzle \u2014 they're a lifestyle - Polygon",
+        "description": "Taylor Swift Easter eggs are more than a puzzle \u2014 they're a lifestyle  Polygon",
+        "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzIzODg3MzcyL3RheWxvci1zd2lmdC1lYXN0ZXItZWdncy1icm9rZS1nb29nbGUtZXJhcy0xOTg5LXRheWxvcnMtdmVyc2lvbtIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-26T07:00:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Drew Barrymore on How Taylor Swift Inspired Her with Dating - PEOPLE",
+        "description": "Drew Barrymore on How Taylor Swift Inspired Her with Dating  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcGVvcGxlLmNvbS9kcmV3LWJhcnJ5bW9yZS1zYXlzLXRheWxvci1zd2lmdC10cmF2aXMta2VsY2UtaW5zcGlyZWQtaGVyLW5vdC10by1vdmVydGhpbmstZGF0aW5nLTgzNjQ4NDPSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-20T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com/2023/11/16/entertainment/travis-kelce-taylor-swift-dad/index.html",
+            "title": "CNN"
+        },
+        "title": "Travis Kelce apologizes to Taylor Swift\u2019s dad | CNN",
+        "description": "Remember when Travis Kelce said he was going to stick to talking about football and not his private life? Good thing for the Swifties it looks like he didn\u2019t mean it.",
+        "url": "https://www.cnn.com/2023/11/16/entertainment/travis-kelce-taylor-swift-dad/index.html",
+        "publishedAt": "2023-11-16T14:46:50Z",
+        "API": "NewsAPI",
+        "category": "Slice of Life",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "Colorado\u2019s Gov. Jared Polis Pens Letter Using Taylor Swift Lyrics to Welcome The Eras Tour to Denver - Billboard",
+        "description": "Colorado\u2019s Gov. Jared Polis Pens Letter Using Taylor Swift Lyrics to Welcome The Eras Tour to Denver  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbXVzaWMtbmV3cy90YXlsb3Itc3dpZnQtZXJhcy10b3VyLXdlbGNvbWVkLWRlbnZlci1jb2xvcmFkby1nb3Zlcm5vci0xMjM1MzcwMTMzL9IBc2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbXVzaWMtbmV3cy90YXlsb3Itc3dpZnQtZXJhcy10b3VyLXdlbGNvbWVkLWRlbnZlci1jb2xvcmFkby1nb3Zlcm5vci0xMjM1MzcwMTMzL2FtcC8?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-12T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.reuters.com",
+            "title": "Reuters"
+        },
+        "title": "'Look what you made me do': Taylor Swift attends film premiere ... - Reuters",
+        "description": "'Look what you made me do': Taylor Swift attends film premiere ...  Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9sb29rLXdoYXQteW91LW1hZGUtbWUtZG8tdGF5bG9yLXN3aWZ0LWF0dGVuZHMtZmlsbS1wcmVtaWVyZS1tb3Zlcy11cC1yZWxlYXNlLTIwMjMtMTAtMTIv0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-13T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.nbcdfw.com",
+            "title": "NBC 5 Dallas-Fort Worth"
+        },
+        "title": "Jason Kelce responds to speculation that Taylor Swift could join Eagles' Christmas album - NBC 5 Dallas-Fort Worth",
+        "description": "Jason Kelce responds to speculation that Taylor Swift could join Eagles' Christmas album  NBC 5 Dallas-Fort Worth",
+        "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5uYmNkZncuY29tL25ld3Mvc3BvcnRzL25mbC9qYXNvbi1rZWxjZS1yZXNwb25kcy10by1zcGVjdWxhdGlvbi10aGF0LXRheWxvci1zd2lmdC1jb3VsZC1qb2luLWVhZ2xlcy1jaHJpc3RtYXMtYWxidW0vMzM2NzI1NC_SAY0BaHR0cHM6Ly93d3cubmJjZGZ3LmNvbS9uZXdzL3Nwb3J0cy9uZmwvamFzb24ta2VsY2UtcmVzcG9uZHMtdG8tc3BlY3VsYXRpb24tdGhhdC10YXlsb3Itc3dpZnQtY291bGQtam9pbi1lYWdsZXMtY2hyaXN0bWFzLWFsYnVtLzMzNjcyNTQvP2FtcD0x?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-23T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Sarah Paulson Says Experiencing Taylor Swift's Eras Concert Was ... - PEOPLE",
+        "description": "Sarah Paulson Says Experiencing Taylor Swift's Eras Concert Was ...  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcGVvcGxlLmNvbS9zYXJhaC1wYXVsc29uLXNheXMtdGF5bG9yLXN3aWZ0LWVyYXMtdG91ci1nb2QtaGVyc2VsZi1zd2lmdGllLWV4Y2x1c2l2ZS04Mzk5NDE50gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-14T16:05:08Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com",
+            "title": "CNN"
+        },
+        "title": "Opinion: Why Taylor Swift just accomplished what no other musician has - CNN",
+        "description": "Opinion: Why Taylor Swift just accomplished what no other musician has  CNN",
+        "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wNy8yNC9vcGluaW9ucy90YXlsb3Itc3dpZnQtc3BlYWstbm93LWJpbGxib2FyZC1wcm9wZXJ0eS1yaWdodHMtd2lsbGlzb24vaW5kZXguaHRtbNIBcGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDcvMjQvb3BpbmlvbnMvdGF5bG9yLXN3aWZ0LXNwZWFrLW5vdy1iaWxsYm9hcmQtcHJvcGVydHktcmlnaHRzLXdpbGxpc29uL2luZGV4Lmh0bWw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-24T07:00:00Z",
+        "API": "GNews",
+        "category": "Achievement",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.king5.com",
+            "title": "KING5.com"
+        },
+        "title": "Here's a list of Taylor Swift-themed events to help fans 'Shake it Off' in 'Style' around Seattle - KING5.com",
+        "description": "Here's a list of Taylor Swift-themed events to help fans 'Shake it Off' in 'Style' around Seattle  KING5.com",
+        "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5raW5nNS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL2xpc3QtdGF5bG9yLXN3aWZ0LXRoZW1lZC1ldmVudHMtaGVscC1mYW5zLXNoYWtlLWl0LW9mZi1pbi1zdHlsZS1zZWF0dGxlLzI4MS1mMDlmN2MyNS1kODZkLTRmZDUtYjk5OC1jODQyNDM4MjQ5MjbSAZ0BaHR0cHM6Ly93d3cua2luZzUuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvbGlzdC10YXlsb3Itc3dpZnQtdGhlbWVkLWV2ZW50cy1oZWxwLWZhbnMtc2hha2UtaXQtb2ZmLWluLXN0eWxlLXNlYXR0bGUvMjgxLWYwOWY3YzI1LWQ4NmQtNGZkNS1iOTk4LWM4NDI0MzgyNDkyNg?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-13T07:00:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "Taylor Swift Joins Fans in Celebrating the Start of August: \u2018Get in the Car\u2019 - Billboard",
+        "description": "Taylor Swift Joins Fans in Celebrating the Start of August: \u2018Get in the Car\u2019  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbXVzaWMtbmV3cy90YXlsb3Itc3dpZnQtY2VsZWJyYXRlcy1hdWd1c3QtdHdlZXQtMTIzNTM4Mjc2OC_SAV9odHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL211c2ljLW5ld3MvdGF5bG9yLXN3aWZ0LWNlbGVicmF0ZXMtYXVndXN0LXR3ZWV0LTEyMzUzODI3NjgvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-01T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "Jack Antonoff Says He & Taylor Swift Have \u2018Grown Together\u2019: \u2018She Put an Amazing Amount of Belief in Me\u2019 - Billboard",
+        "description": "Jack Antonoff Says He & Taylor Swift Have \u2018Grown Together\u2019: \u2018She Put an Amazing Amount of Belief in Me\u2019  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbXVzaWMtbmV3cy9qYWNrLWFudG9ub2ZmLXRheWxvci1zd2lmdC1ncm93bi10b2dldGhlci1pbnRlcnZpZXctMTIzNTQ0MDkzMi_SAW5odHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL211c2ljLW5ld3MvamFjay1hbnRvbm9mZi10YXlsb3Itc3dpZnQtZ3Jvd24tdG9nZXRoZXItaW50ZXJ2aWV3LTEyMzU0NDA5MzIvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-12T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://news.rice.edu",
+            "title": "Rice News"
+        },
+        "title": "New class at Rice examines pop culture phenom Taylor Swift's lyrics - Rice News",
+        "description": "New class at Rice examines pop culture phenom Taylor Swift's lyrics  Rice News",
+        "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmV3cy5yaWNlLmVkdS9uZXdzLzIwMjMvbmV3LWNsYXNzLXJpY2UtZXhhbWluZXMtcG9wLWN1bHR1cmUtcGhlbm9tLXRheWxvci1zd2lmdHMtbHlyaWNz0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-01T07:00:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "JoJo Siwa Defends Tween Influencer Everleigh Rose After Viral \u2018Like Taylor Swift\u2019 Takes Hits: \u2018Lose Your Ego and Grow Up\u2019 - Billboard",
+        "description": "JoJo Siwa Defends Tween Influencer Everleigh Rose After Viral \u2018Like Taylor Swift\u2019 Takes Hits: \u2018Lose Your Ego and Grow Up\u2019  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvcG9wL2pvam8tc2l3YS1kZWZlbmRzLWV2ZXJsZWlnaC1yb3NlLWxpa2UtdGF5bG9yLXN3aWZ0LXNvbmctMTIzNTQxMDk2Ny_SAWtodHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL3BvcC9qb2pvLXNpd2EtZGVmZW5kcy1ldmVybGVpZ2gtcm9zZS1saWtlLXRheWxvci1zd2lmdC1zb25nLTEyMzU0MTA5NjcvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-12T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://deadline.com",
+            "title": "Deadline"
+        },
+        "title": "Taylor Swift Is First Woman To Hit Remarkable Spotify Milestone - Deadline",
+        "description": "Taylor Swift Is First Woman To Hit Remarkable Spotify Milestone  Deadline",
+        "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvdGF5bG9yLXN3aWZ0LWZpcnN0LWZlbWFsZS1hcnRpc3Qtc3BvdGlmeS0xMDAtbWlsbGlvbi0xMjM1NTMwNTQ0L9IBYWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvdGF5bG9yLXN3aWZ0LWZpcnN0LWZlbWFsZS1hcnRpc3Qtc3BvdGlmeS0xMDAtbWlsbGlvbi0xMjM1NTMwNTQ0L2FtcC8?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-29T07:00:00Z",
+        "API": "GNews",
+        "category": "Achievement",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.insider.com",
+            "title": "Insider"
+        },
+        "title": "Taylor Swift's outfits at the Billboard Music Awards, ranked - Insider",
+        "description": "Taylor Swift's outfits at the Billboard Music Awards, ranked  Insider",
+        "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lmluc2lkZXIuY29tL3RheWxvci1zd2lmdC1iaWxsYm9hcmQtbXVzaWMtYXdhcmRzLWZhc2hpb24tcmFua2VkLTIwMjMtMTHSAVZodHRwczovL3d3dy5pbnNpZGVyLmNvbS90YXlsb3Itc3dpZnQtYmlsbGJvYXJkLW11c2ljLWF3YXJkcy1mYXNoaW9uLXJhbmtlZC0yMDIzLTExP2FtcA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-19T11:28:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Star Tracks: Taylor Swift, Billie Eilish, Billy Crystal [PHOTOS] - PEOPLE",
+        "description": "Star Tracks: Taylor Swift, Billie Eilish, Billy Crystal [PHOTOS]  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vcGVvcGxlLmNvbS9zdGFyLXRyYWNrcy1mcmlkYXktYXVndXN0LTQtMjAyMy03NTY5NjU00gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-04T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.forbes.com",
+            "title": "Forbes"
+        },
+        "title": "Taylor Swift Blocks The Beatles From Hitting No. 1 - Forbes",
+        "description": "Taylor Swift Blocks The Beatles From Hitting No. 1  Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvaHVnaG1jaW50eXJlLzIwMjMvMTEvMTcvdGF5bG9yLXN3aWZ0LWJsb2Nrcy10aGUtYmVhdGxlcy1mcm9tLWhpdHRpbmctbm8tMS_SAWtodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2h1Z2htY2ludHlyZS8yMDIzLzExLzE3L3RheWxvci1zd2lmdC1ibG9ja3MtdGhlLWJlYXRsZXMtZnJvbS1oaXR0aW5nLW5vLTEvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-17T18:20:12Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.foxnews.com/entertainment/taylor-swift-runs-kiss-travis-kelce-attends-her-second-eras-show-argentina",
+            "title": "Fox News"
+        },
+        "title": "Taylor Swift runs to kiss Travis Kelce after he attends her second Eras show in Argentina",
+        "description": "Taylor Swift and Travis Kelce shared a kiss after the singer rushed into the NFL star's arms following her second Eras tour concert in Argentina.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swift-runs-kiss-travis-kelce-attends-her-second-eras-show-argentina",
+        "publishedAt": "2023-11-12T05:00:20Z",
+        "API": "NewsAPI",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com",
+            "title": "CNN"
+        },
+        "title": "Mark Cuban offered to introduce Taylor Swift to a Dallas Maverick ... - CNN",
+        "description": "Mark Cuban offered to introduce Taylor Swift to a Dallas Maverick ...  CNN",
+        "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8yOS9lbnRlcnRhaW5tZW50L21hcmstY3ViYW4tdHJhdmlzLWtlbGNlLXRheWxvci9pbmRleC5odG1s0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-29T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Taylor Swift Keeps Proving Why Skorts Are So Much Better Than Skirts - PEOPLE",
+        "description": "Taylor Swift Keeps Proving Why Skorts Are So Much Better Than Skirts  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vcGVvcGxlLmNvbS90YXlsb3Itc3dpZnQtcGxlYXRlZC1za29ydC03OTY4MzQ00gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-11T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.snopes.com",
+            "title": "Snopes.com"
+        },
+        "title": "Did Travis Kelce Respond to Taylor Swift Engagement Rumors, as ... - Snopes.com",
+        "description": "Did Travis Kelce Respond to Taylor Swift Engagement Rumors, as ...  Snopes.com",
+        "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnNub3Blcy5jb20vZmFjdC1jaGVjay90cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LWVuZ2FnZW1lbnQv0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-21T16:53:56Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com",
+            "title": "CNN"
+        },
+        "title": "Tim McGraw says he knew Taylor Swift was unstoppable - CNN",
+        "description": "Tim McGraw says he knew Taylor Swift was unstoppable  CNN",
+        "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOC8xNy9lbnRlcnRhaW5tZW50L3RpbS1tY2dyYXctdGF5bG9yLXN3aWZ0LW11c2ljL2luZGV4Lmh0bWzSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-17T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.businessinsider.com",
+            "title": "Business Insider"
+        },
+        "title": "How much Taylor Swift fans are spending on Eras Tour - Business Insider",
+        "description": "How much Taylor Swift fans are spending on Eras Tour  Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaG93LW11Y2gtdGF5bG9yLXN3aWZ0LWZhbnMtc3BlbmQtY29uY2VydHMtZXJhcy10b3VyLTIwMjMtN9IBXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaG93LW11Y2gtdGF5bG9yLXN3aWZ0LWZhbnMtc3BlbmQtY29uY2VydHMtZXJhcy10b3VyLTIwMjMtNz9hbXA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-08T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://variety.com",
+            "title": "Variety"
+        },
+        "title": "USA Today Hiring Taylor Swift Reporter - Variety",
+        "description": "USA Today Hiring Taylor Swift Reporter  Variety",
+        "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9tdXNpYy9uZXdzL3RheWxvci1zd2lmdC1yZXBvcnRlci11c2EtdG9kYXktMTIzNTcyMTI2MS_SAVNodHRwczovL3ZhcmlldHkuY29tLzIwMjMvbXVzaWMvbmV3cy90YXlsb3Itc3dpZnQtcmVwb3J0ZXItdXNhLXRvZGF5LTEyMzU3MjEyNjEvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-12T07:00:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.rollingstone.com",
+            "title": "Rolling Stone"
+        },
+        "title": "Best Taylor Swift Eras Tour Moments: Surprise Guests And More - Rolling Stone",
+        "description": "Best Taylor Swift Eras Tour Moments: Surprise Guests And More  Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbGlzdHMvYmVzdC10YXlsb3Itc3dpZnQtZXJhcy10b3VyLW1vbWVudHMtMTIzNDgwNzU0NC_SAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-18T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.cnn.com",
+            "title": "CNN"
+        },
+        "title": "Taylor Swift and Beyonc\u00e9 and could save movie theaters. But for ... - CNN",
+        "description": "Taylor Swift and Beyonc\u00e9 and could save movie theaters. But for ...  CNN",
+        "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wMi9lbnRlcnRhaW5tZW50L3RheWxvci1zd2lmdC1iZXlvbmNlLWNvbmNlcnQtZmlsbXMvaW5kZXguaHRtbNIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-02T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.smithsonianmag.com",
+            "title": "Smithsonian Magazine"
+        },
+        "title": "Taylor Swift Concerts Are Generating Seismic Activity | Smart News - Smithsonian Magazine",
+        "description": "Taylor Swift Concerts Are Generating Seismic Activity | Smart News  Smithsonian Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNtaXRoc29uaWFubWFnLmNvbS9zbWFydC1uZXdzL3RheWxvci1zd2lmdC1jb25jZXJ0cy1zZWlzbWljLWFjdGl2aXR5LTE4MDk4MjYzMi_SAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-01T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "Taylor Swift Extends Record Run Atop Artist 100 Chart to 72 Weeks - Billboard",
+        "description": "Taylor Swift Extends Record Run Atop Artist 100 Chart to 72 Weeks  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvY2hhcnQtYmVhdC90YXlsb3Itc3dpZnQtbnVtYmVyLW9uZS1hcnRpc3QtMTAwLWNoYXJ0LXJlY29yZC03Mi13ZWVrcy0xMjM1MzY5NDMxL9IBc2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvY2hhcnQtYmVhdC90YXlsb3Itc3dpZnQtbnVtYmVyLW9uZS1hcnRpc3QtMTAwLWNoYXJ0LXJlY29yZC03Mi13ZWVrcy0xMjM1MzY5NDMxL2FtcC8?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-11T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://thebrownandwhite.com",
+            "title": "The Brown and White"
+        },
+        "title": "Editorial: Is Taylor Swift everyone's Roman Empire? - The Brown and White",
+        "description": "Editorial: Is Taylor Swift everyone's Roman Empire?  The Brown and White",
+        "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlYnJvd25hbmR3aGl0ZS5jb20vMjAyMy8xMC8xMC9pcy10YXlsb3Itc3dpZnQtZXZlcnlvbmVzLXJvbWFuLWVtcGlyZS_SAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-10T07:00:00Z",
+        "API": "GNews",
+        "category": "Achievement",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.nytimes.com",
+            "title": "The New York Times"
+        },
+        "title": "Taylor Swift-Quake: Fans Cause Seismic Activity at Seattle Concert - The New York Times",
+        "description": "Taylor Swift-Quake: Fans Cause Seismic Activity at Seattle Concert  The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDcvMjgvYXJ0cy9tdXNpYy90YXlsb3Itc3dpZnQtZWFydGhxdWFrZS1zZWF0dGxlLS5odG1s0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-31T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.rollingstone.com",
+            "title": "Rolling Stone"
+        },
+        "title": "Taylor Swift, Beatles, Queen, Weeknd, Ed Sheeran: Least-Popular ... - Rolling Stone",
+        "description": "Taylor Swift, Beatles, Queen, Weeknd, Ed Sheeran: Least-Popular ...  Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbGlzdHMvdGF5bG9yLXN3aWZ0LWJlYXRsZXMtcXVlZW4td2Vla25kLWVkLXNoZWVyYW4tbGVhc3QtcG9wdWxhci0xMjM0ODA4NTE0L9IBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-21T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.businessinsider.com",
+            "title": "Business Insider"
+        },
+        "title": "Who is typical Taylor Swift fan: Swifties are white millennials - Business Insider",
+        "description": "Who is typical Taylor Swift fan: Swifties are white millennials  Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdGF5bG9yLXN3aWZ0LXN3aWZ0aWVzLXdoaXRlLW1pbGxlbm5pYWwtc3VidXJiYW4tZGVtb2NyYXQtNTBrLWVyYXMtdG91ci0yMDIzLTEx0gFyaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS90YXlsb3Itc3dpZnQtc3dpZnRpZXMtd2hpdGUtbWlsbGVubmlhbC1zdWJ1cmJhbi1kZW1vY3JhdC01MGstZXJhcy10b3VyLTIwMjMtMTE_YW1w?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-22T11:03:00Z",
+        "API": "GNews",
+        "category": "Fan",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.statista.com",
+            "title": "Statista"
+        },
+        "title": "Taylor Swift Stands Among The Greats of Past and Present - Statista",
+        "description": "Taylor Swift Stands Among The Greats of Past and Present  Statista",
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnN0YXRpc3RhLmNvbS9jaGFydC8zMTAzNi9tb3N0LXN1Y2Nlc3NmdWwtZmVtYWxlLWFydGlzdHMtaW4tdGhlLXVzL9IBUmh0dHBzOi8vd3d3LnN0YXRpc3RhLmNvbS9jaGFydC9hbXAvMzEwMzYvbW9zdC1zdWNjZXNzZnVsLWZlbWFsZS1hcnRpc3RzLWluLXRoZS11cy8?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-13T07:00:00Z",
+        "API": "GNews",
+        "category": "Achievement",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.huffpost.com",
+            "title": "HuffPost"
+        },
+        "title": "Emily Ratajkowski Reveals What Kept Her From Being A Taylor Swift Fan For A Long Time - HuffPost",
+        "description": "Emily Ratajkowski Reveals What Kept Her From Being A Taylor Swift Fan For A Long Time  HuffPost",
+        "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9lbWlseS1yYXRhamtvd3NraS10YXlsb3Itc3dpZnQtbXVzaWNfbl82NGNhYTU3MmU0YjBmZDA2NTk0ZjNhZDPSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvZW1pbHktcmF0YWprb3dza2ktdGF5bG9yLXN3aWZ0LW11c2ljX25fNjRjYWE1NzJlNGIwZmQwNjU5NGYzYWQzL2FtcA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-02T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.seattletimes.com",
+            "title": "The Seattle Times"
+        },
+        "title": "Taylor Swift drew downtown Seattle's biggest crowds since COVID ... - The Seattle Times",
+        "description": "Taylor Swift drew downtown Seattle's biggest crowds since COVID ...  The Seattle Times",
+        "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL2RhdGEvdGF5bG9yLXN3aWZ0LWRyZXctZG93bnRvd24tc2VhdHRsZXMtYmlnZ2VzdC1jcm93ZHMtc2luY2UtY292aWQtYmVnYW4v0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-30T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.usatoday.com",
+            "title": "USA TODAY"
+        },
+        "title": "Taylor Swift's 'Speak Now Taylor's Version' best vault song - USA TODAY",
+        "description": "Taylor Swift's 'Speak Now Taylor's Version' best vault song  USA TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDIzLzA3LzA3L3RheWxvci1zd2lmdHMtc3BlYWstbm93LXRheWxvcnMtdmVyc2lvbi1iZXN0LXZhdWx0LXNvbmcvNzAzODg1MDMwMDcv0gEA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-07T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "See What Taylor Swift Wore for N.Y.C. Date Nights with Travis Kelce - PEOPLE",
+        "description": "See What Taylor Swift Wore for N.Y.C. Date Nights with Travis Kelce  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vcGVvcGxlLmNvbS90YXlsb3Itc3dpZnQtdHJhdmlzLWtlbGNlLWRhdGUtbmlnaHQtb3V0Zml0cy1waG90b3MtODM1OTM1NNIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-16T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "Mark Zuckerberg Takes His Family to Taylor Swift's Eras Tour in ... - PEOPLE",
+        "description": "Mark Zuckerberg Takes His Family to Taylor Swift's Eras Tour in ...  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcGVvcGxlLmNvbS9naXJsLWRhZC1tYXJrLXp1Y2tlcmJlcmctYnJpbmdzLWZhbWlseS10by10YXlsb3Itc3dpZnQtZXJhcy10b3VyLTc1NjczMjXSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-29T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.foxnews.com/entertainment/taylor-swifts-dad-apology-travis-kelce-will-smith-jada-pinkett-smith-cheating",
+            "title": "Fox News"
+        },
+        "title": "Taylor Swift\u2019s dad gets apology from Travis Kelce; Will Smith, Jada Pinkett Smith deny cheating claims",
+        "description": "The Fox News Entertainment newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swifts-dad-apology-travis-kelce-will-smith-jada-pinkett-smith-cheating",
+        "publishedAt": "2023-11-18T17:00:20Z",
+        "API": "NewsAPI",
+        "category": "Slice of Life",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://www.nytimes.com",
+            "title": "The New York Times"
+        },
+        "title": "Video: 'It Was Terrible': Taylor Swift Fans in Brazil Bear Heat and ... - The New York Times",
+        "description": "Video: 'It Was Terrible': Taylor Swift Fans in Brazil Bear Heat and ...  The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkL2FtZXJpY2FzLzEwMDAwMDAwOTE4ODYzNy90YXlsb3Itc3dpZnQtYnJhemlsLXJpby1kZS1qYW5laXJvLmh0bWzSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-11-20T09:20:27Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://www.forbes.com",
+            "title": "Forbes"
+        },
+        "title": "Taylor Swift Might Want To Change Up Her Promotional Plan For \u20181989 (Taylor\u2019s Version)\u2019 - Forbes",
+        "description": "Taylor Swift Might Want To Change Up Her Promotional Plan For \u20181989 (Taylor\u2019s Version)\u2019  Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2h1Z2htY2ludHlyZS8yMDIzLzA5LzA1L3RheWxvci1zd2lmdC1taWdodC13YW50LXRvLWNoYW5nZS11cC1oZXItcHJvbW90aW9uYWwtcGxhbi1mb3ItMTk4OS10YXlsb3JzLXZlcnNpb24v0gGMAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvaHVnaG1jaW50eXJlLzIwMjMvMDkvMDUvdGF5bG9yLXN3aWZ0LW1pZ2h0LXdhbnQtdG8tY2hhbmdlLXVwLWhlci1wcm9tb3Rpb25hbC1wbGFuLWZvci0xOTg5LXRheWxvcnMtdmVyc2lvbi9hbXAv?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-05T07:00:00Z",
+        "API": "GNews",
+        "category": "Music",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.entrepreneur.com",
+            "title": "Entrepreneur"
+        },
+        "title": "Mark Zuckerberg Shakes It Off at Taylor Swift's Eras Tour - Entrepreneur",
+        "description": "Mark Zuckerberg Shakes It Off at Taylor Swift's Eras Tour  Entrepreneur",
+        "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vYnVzaW5lc3MtbmV3cy9tYXJrLXp1Y2tlcmJlcmctc2hha2VzLWl0LW9mZi1hdC10YXlsb3Itc3dpZnRzLWVyYXMtdG91ci80NTY4NjTSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-02T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.foxnews.com/entertainment/taylor-swift-fans-go-wild-sings-falling-love-again-kicking-off-international-tour",
+            "title": "Fox News"
+        },
+        "title": "Taylor Swift fans go wild as she sings about 'falling in love again' while kicking off international tour",
+        "description": "Taylor Swift shocked fans Thursday by singing about \"falling in love again\" amid her romance with NFL star Travis Kelce. The pop star performed \"Labyrinth\" in Buenos Aires for the first time on her Eras Tour.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swift-fans-go-wild-sings-falling-love-again-kicking-off-international-tour",
+        "publishedAt": "2023-11-10T18:01:30Z",
+        "API": "NewsAPI",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://cnnpressroom.blogs.cnn.com",
+            "title": "CNN Press Room"
+        },
+        "title": "Taking On Taylor Swift From CNN FlashDocs Comes to Max October 20 - CNN Press Room",
+        "description": "Taking On Taylor Swift From CNN FlashDocs Comes to Max October 20  CNN Press Room",
+        "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL2NubnByZXNzcm9vbS5ibG9ncy5jbm4uY29tLzIwMjMvMTAvMTkvY25uLWZsYXNoZG9jcy1leGFtaW5lcy10YXlsb3Itc3dpZnQtc2hha2UtaXQtb2ZmLWNvcHlyaWdodC1sYXdzdWl0LWluLXRha2luZy1vbi10YXlsb3Itc3dpZnQtY29taW5nLXRvLW1heC1vbi1mcmlkYXktb2N0b2Jlci0yMC_SAbIBaHR0cHM6Ly9jbm5wcmVzc3Jvb20uYmxvZ3MuY25uLmNvbS8yMDIzLzEwLzE5L2Nubi1mbGFzaGRvY3MtZXhhbWluZXMtdGF5bG9yLXN3aWZ0LXNoYWtlLWl0LW9mZi1jb3B5cmlnaHQtbGF3c3VpdC1pbi10YWtpbmctb24tdGF5bG9yLXN3aWZ0LWNvbWluZy10by1tYXgtb24tZnJpZGF5LW9jdG9iZXItMjAvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-19T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Neutral"
+    },
+    {
+        "source": {
+            "href": "https://www.billboard.com",
+            "title": "Billboard"
+        },
+        "title": "\u2018The View\u2019 Co-Host Claims Taylor Swift Is \u2018Doing More for the Economy\u2019 Than Joe Biden & Whoopi Goldberg Has Thoughts - Billboard",
+        "description": "\u2018The View\u2019 Co-Host Claims Taylor Swift Is \u2018Doing More for the Economy\u2019 Than Joe Biden & Whoopi Goldberg Has Thoughts  Billboard",
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vY3VsdHVyZS90di1maWxtL3RoZS12aWV3LXRheWxvci1zd2lmdC1lY29ub215LWpvZS1iaWRlbi13aG9vcGktZ29sZGJlcmctcmVzcG9uc2UtMTIzNTQxNzE1Ny_SAXpodHRwczovL3d3dy5iaWxsYm9hcmQuY29tL2N1bHR1cmUvdHYtZmlsbS90aGUtdmlldy10YXlsb3Itc3dpZnQtZWNvbm9teS1qb2UtYmlkZW4td2hvb3BpLWdvbGRiZXJnLXJlc3BvbnNlLTEyMzU0MTcxNTcvYW1wLw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-20T07:00:00Z",
+        "API": "GNews",
+        "category": "Tour",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://stateline.org",
+            "title": "Stateline"
+        },
+        "title": "Seeing 'Red' after Taylor Swift debacle, lawmakers weigh concert ... - Stateline",
+        "description": "Seeing 'Red' after Taylor Swift debacle, lawmakers weigh concert ...  Stateline",
+        "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vc3RhdGVsaW5lLm9yZy8yMDIzLzA5LzAxL3NlZWluZy1yZWQtYWZ0ZXItdGF5bG9yLXN3aWZ0LWRlYmFjbGUtbGF3bWFrZXJzLXdlaWdoLWNvbmNlcnQtdGlja2V0LXJ1bGVzL9IBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-09-01T07:00:00Z",
+        "API": "GNews",
+        "category": "Controversy",
+        "sentiment": "Negative"
+    },
+    {
+        "source": {
+            "href": "https://people.com",
+            "title": "PEOPLE"
+        },
+        "title": "David Harbour Says Taylor Swift Wrote 'Handwritten Letter' to His ... - PEOPLE",
+        "description": "David Harbour Says Taylor Swift Wrote 'Handwritten Letter' to His ...  PEOPLE",
+        "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vcGVvcGxlLmNvbS9kYXZpZC1oYXJib3VyLXNheXMtdGF5bG9yLXN3aWZ0LXdyb3RlLWhhbmR3cml0dGVuLWxldHRlci10by1oaXMtc3RlcGRhdWdodGVyLTc2OTM2MzHSAQA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-08-21T07:00:00Z",
+        "API": "GNews",
+        "category": "Gossip",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.chron.com",
+            "title": "Chron"
+        },
+        "title": "Bun B meets Taylor Swift: 'Does this make me a Swiftie?' - Chron",
+        "description": "Bun B meets Taylor Swift: 'Does this make me a Swiftie?'  Chron",
+        "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNocm9uLmNvbS9jdWx0dXJlL2FydGljbGUvYnVuLWItdGF5bG9yLXN3aWZ0LTE4MTk4NzY1LnBocNIBAA?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-07-13T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    },
+    {
+        "source": {
+            "href": "https://www.kansascity.com",
+            "title": "Kansas City Star"
+        },
+        "title": "Taylor Swift made \u2018generous\u2019 donation to KC nonprofit \u2014 and Travis Kelce has given, too - Kansas City Star",
+        "description": "Taylor Swift made \u2018generous\u2019 donation to KC nonprofit \u2014 and Travis Kelce has given, too  Kansas City Star",
+        "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI4MDM1ODk3OS5odG1s0gE7aHR0cHM6Ly9hbXAua2Fuc2FzY2l0eS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjgwMzU4OTc5Lmh0bWw?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "publishedAt": "2023-10-10T07:00:00Z",
+        "API": "GNews",
+        "category": "Slice of Life",
+        "sentiment": "Positive"
+    }
+]
